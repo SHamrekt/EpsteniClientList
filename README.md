@@ -1,2 +1,2 @@
-# EpsteniClientList
+# EpsteinClientList
 PDF Format Epstein List
